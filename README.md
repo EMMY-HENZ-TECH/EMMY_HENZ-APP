@@ -55,8 +55,8 @@
     <a href="https://t.me/EMMYHENZTECHINFO/169" class="box">WiFi Hacking</a>
     <a href="https://t.me/EMMYHENZTECHINFO/172" class="box">Android Hack</a>
     <a href="https://t.me/EmmyHenz" class="box">Hacking Tool</a>
-    <a href="https://t.me/EmmyHenz" class="box">Dark Web Tools</a>
-    <a href="https://t.me/EmmyHenz" class="box">Android Editor Tools</a>
+    <a href="https://droplink.co/FullDarkweb" class="box">Dark Web Course</a>
+    <a href="" class="box">Android Editor Tools</a>
     <a href="https://t.me/EmmyHenz" class="box">Linux CMD Apps</a>
     <a href="https://t.me/EmmyHenz" class="box">Networking Tools</a>
     <a href="https://t.me/EmmyHenz" class="box">Cryptography</a>
@@ -76,7 +76,7 @@
     <a href="https://t.me/EmmyHenz" class="box">Steganography</a>
     <a href="https://t.me/EmmyHenz" class="box">Network Monitoring</a>
     <a href="https://t.me/EmmyHenz" class="box">Botnet Tools</a>
-    <a href="https://t.me/EmmyHenz" class="box">Phishing Tools</a>
+    <a href="" class="box">Phishing Tools</a>
     <a href="https://t.me/EmmyHenz" class="box">OSINT Tools</a>
     <a href="https://t.me/EmmyHenz" class="box">Keyloggers</a>
     <a href="https://t.me/EmmyHenz" class="box">Trojan Development</a>
